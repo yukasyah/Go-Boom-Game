@@ -26,9 +26,4 @@ No | Feature                                                                    
 8  | The winner of a trick leads the next card.                                      |        Y
 
 
-## C. Link to Video Presentation
-
-Upload your video presentation to your Google drive or YouTube, then paste the link below. Give your lab lecturer the permission to view the video.
-
-https://youtu.be/erNOTE9fH-I
 
